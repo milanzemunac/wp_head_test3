@@ -17,10 +17,11 @@
   "@babel/preset-env": "^7.16.0",
   "@babel/preset-react": "^7.16.0"
 },
-  "devDependencies": {
+"devDependencies": {
   "@babel/core": "^7.16.0",
   "@babel/preset-env": "^7.16.0",
   "@babel/preset-react": "^7.16.0"
+  "@babel/plugin-proposal-private-property-in-object": "^7.16.0"  
 },
   "browserslist": {
     "production": [
